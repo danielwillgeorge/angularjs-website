@@ -1,1 +1,1 @@
-Website for apps that I've designed.
+Experiments with angular.js technologies in web design.
