@@ -1,1 +1,3 @@
-Experiments with angular.js technologies in web design.
+#My-AngularJS-Web-App Demo
+#Setup
+#Troubleshoot/FAQ
